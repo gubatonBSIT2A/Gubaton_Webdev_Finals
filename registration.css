@@ -1,0 +1,35 @@
+.bruh{
+  border-top: 12px solid #1dd1a1;
+  background-color: #00d2d3;
+  margin-top: 50px;
+  margin-bottom: 200px;
+  margin-right: 400px;
+  margin-left: 400px;
+   padding: 15px 32px;
+}
+.bruh td{
+ font-family: Tahoma, Geneva, sans-serif;
+font-size: 14px;
+letter-spacing: 2px;
+word-spacing: -2.6px;
+color: #000000;
+font-weight: 400;
+text-decoration: none solid rgb(68, 68, 68);
+font-style: normal;
+font-variant: normal;
+text-transform: none; 
+}
+.bruh table{
+  margin-left: auto;
+  margin-right: auto;
+}
+h2{
+  text-align: center;
+}
+p{
+text-align: center;
+}
+button{
+  font-size: 14px;
+  line-height: 20px;
+}
